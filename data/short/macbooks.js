@@ -9,63 +9,36 @@ module.exports = [
         rate: 4,
         price: 6399,
         prevPrice: 6500,
-        year: 2023,
-        screenDiagonal: 14.2,
-        screenResolution: '3024×1964',
-        cpu: 'Apple M1 Pro',
-        ram: '64GB',
-        memory: '2TB',
-        color: 'Space Gray',
-        reviews: [
+        kharacteristics: [
             {
-                id: 1,
-                rate: 4,
-                name: 'Джон До',
-                title: 'Классный ноутбук, всем советую!',
-                images: [
-                    {
-                        id: 1,
-                        src: 'https://upload.wikimedia.org/wikipedia/commons/7/76/MacBook-Pro-13inch.jpg',
-                    },
-                    {
-                        id: 2,
-                        src: 'https://itc.ua/wp-content/uploads/2023/02/air-m2-12.jpg',
-                    },
-                    {
-                        id: 3,
-                        src: 'https://www.overclockers.ua/news/cpu/128079-13in-m1-mbp-1.jpg',
-                    },
-                    {
-                        id: 4,
-                        src: 'https://root-nation.com/wp-content/uploads/2021/01/20210104_203646.jpg'
-                    }
-                ]
+                key: 'Год выпуска',
+                value: 2023,
             },
             {
-                id: 2,
-                rate: 5,
-                name: 'Алекс Фроуст',
-                title: 'Самое лучшее приобретение за свою жизнь, не пожалел!',
-                images: [
-                    {
-                        id: 1,
-                        src: 'https://upload.wikimedia.org/wikipedia/commons/7/76/MacBook-Pro-13inch.jpg',
-                    },
-                    {
-                        id: 2,
-                        src: 'https://itc.ua/wp-content/uploads/2023/02/air-m2-12.jpg',
-                    },
-                    {
-                        id: 3,
-                        src: 'https://www.overclockers.ua/news/cpu/128079-13in-m1-mbp-1.jpg',
-                    },
-                    {
-                        id: 4,
-                        src: 'https://root-nation.com/wp-content/uploads/2021/01/20210104_203646.jpg'
-                    }
-                ]
+                key: 'Дигональ экрана',
+                value: '13.3”',
             },
-        ]
+            {
+                key: 'Разрешение дисплея:',
+                value: "3024×1964",
+            },
+            {
+                key: 'Процессор',
+                value: 'Apple M1 Pro',
+            },
+            {
+                key: 'ОЗУ',
+                value: '64GB',
+            },
+            {
+                key: 'Накопитель',
+                value: '2TB',
+            },
+            {
+                key: 'Цвет корпуса',
+                value: 'Space Gray',
+            },
+        ],
     },
     {
         id: 2,
@@ -77,59 +50,36 @@ module.exports = [
         rate: 5,
         price: 6639,
         prevPrice: 6700,
-        year: 2023,
-        screenDiagonal: 16.2,
-        screenResolution: '3456×2234',
-        cpu: 'Apple M1 Max',
-        ram: '64GB',
-        memory: '8TB',
-        color: 'Space Gray',
-        reviews: [
+        kharacteristics: [
             {
-                id: 1,
-                rate: 4,
-                name: 'Джон До',
-                title: 'Классный ноутбук, все советую!',
-                images: [
-                    {
-                        src: 'https://upload.wikimedia.org/wikipedia/commons/7/76/MacBook-Pro-13inch.jpg',
-                    },
-                    {
-                        src: 'https://itc.ua/wp-content/uploads/2023/02/air-m2-12.jpg',
-                    },
-                    {
-                        src: 'https://www.overclockers.ua/news/cpu/128079-13in-m1-mbp-1.jpg',
-                    },
-                    {
-                        src: 'https://root-nation.com/wp-content/uploads/2021/01/20210104_203646.jpg'
-                    }
-                ]
+                key: 'Год выпуска',
+                value: 2023,
             },
             {
-                id: 2,
-                rate: 5,
-                name: 'Алекс Фроуст',
-                title: 'Самое лучшее приобретение за свою жизнь, не пожалел!',
-                images: [
-                    {
-                        id: 1,
-                        src: 'https://upload.wikimedia.org/wikipedia/commons/7/76/MacBook-Pro-13inch.jpg',
-                    },
-                    {
-                        id: 2,
-                        src: 'https://itc.ua/wp-content/uploads/2023/02/air-m2-12.jpg',
-                    },
-                    {
-                        id: 3,
-                        src: 'https://www.overclockers.ua/news/cpu/128079-13in-m1-mbp-1.jpg',
-                    },
-                    {
-                        id: 4,
-                        src: 'https://root-nation.com/wp-content/uploads/2021/01/20210104_203646.jpg'
-                    }
-                ]
+                key: 'Дигональ экрана',
+                value: '16.2”',
             },
-        ]
+            {
+                key: 'Разрешение дисплея:',
+                value: '3456×2234',
+            },
+            {
+                key: 'Процессор',
+                value: 'Apple M1 Max',
+            },
+            {
+                key: 'ОЗУ',
+                value: '64GB',
+            },
+            {
+                key: 'Накопитель',
+                value: '8TB',
+            },
+            {
+                key: 'Цвет корпуса',
+                value: 'Space Gray',
+            },
+        ],
     },
     {
         id: 3,
@@ -141,58 +91,35 @@ module.exports = [
         rate: 5,
         price: 2699,
         prevPrice: 2800,
-        year: 2023,
-        screenDiagonal: 13.3,
-        screenResolution: '2560×1600',
-        cpu: 'Apple M2 Max',
-        ram: '16GB',
-        memory: '2TB',
-        color: 'Space Gray',
-        reviews: [
+        kharacteristics: [
             {
-                id: 1,
-                rate: 4,
-                name: 'Джон До',
-                title: 'Классный ноутбук, все советую!',
-                images: [
-                    {
-                        src: 'https://upload.wikimedia.org/wikipedia/commons/7/76/MacBook-Pro-13inch.jpg',
-                    },
-                    {
-                        src: 'https://itc.ua/wp-content/uploads/2023/02/air-m2-12.jpg',
-                    },
-                    {
-                        src: 'https://www.overclockers.ua/news/cpu/128079-13in-m1-mbp-1.jpg',
-                    },
-                    {
-                        src: 'https://root-nation.com/wp-content/uploads/2021/01/20210104_203646.jpg'
-                    }
-                ]
+                key: 'Год выпуска',
+                value: 2023,
             },
             {
-                id: 2,
-                rate: 5,
-                name: 'Алекс Фроуст',
-                title: 'Самое лучшее приобретение за свою жизнь, не пожалел!',
-                images: [
-                    {
-                        id: 1,
-                        src: 'https://upload.wikimedia.org/wikipedia/commons/7/76/MacBook-Pro-13inch.jpg',
-                    },
-                    {
-                        id: 2,
-                        src: 'https://itc.ua/wp-content/uploads/2023/02/air-m2-12.jpg',
-                    },
-                    {
-                        id: 3,
-                        src: 'https://www.overclockers.ua/news/cpu/128079-13in-m1-mbp-1.jpg',
-                    },
-                    {
-                        id: 4,
-                        src: 'https://root-nation.com/wp-content/uploads/2021/01/20210104_203646.jpg'
-                    }
-                ]
+                key: 'Дигональ экрана',
+                value: '13.3”',
             },
-        ]
+            {
+                key: 'Разрешение дисплея:',
+                value: '2560×1600',
+            },
+            {
+                key: 'Процессор',
+                value: 'Apple M2 Max',
+            },
+            {
+                key: 'ОЗУ',
+                value: '16GB',
+            },
+            {
+                key: 'Накопитель',
+                value: '2TB',
+            },
+            {
+                key: 'Цвет корпуса',
+                value: 'Space Gray',
+            },
+        ],
     },
 ]
