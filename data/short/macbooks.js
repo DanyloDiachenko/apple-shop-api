@@ -53,7 +53,7 @@ module.exports = [
         kharacteristics: [
             {
                 key: 'Год выпуска',
-                value: 2023,
+                value: 2021,
             },
             {
                 key: 'Дигональ экрана',
