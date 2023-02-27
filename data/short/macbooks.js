@@ -9,7 +9,7 @@ module.exports = [
         rate: 5,
         price: 6399,
         prevPrice: 6500,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2023,
@@ -38,7 +38,7 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Space Gray',
             },
-        ],
+        ], */
     },
     {
         id: 2,
@@ -50,7 +50,7 @@ module.exports = [
         rate: 5,
         price: 6639,
         prevPrice: 6700,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2021,
@@ -79,7 +79,7 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Space Gray',
             },
-        ],
+        ], */
     },
     {
         id: 3,
@@ -91,7 +91,7 @@ module.exports = [
         rate: 5,
         price: 2699,
         prevPrice: 2800,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2023,
@@ -120,7 +120,7 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Space Gray',
             },
-        ],
+        ], */
     },
     {
         id: 4,
@@ -132,7 +132,7 @@ module.exports = [
         rate: 5,
         price: 2799,
         prevPrice: 2900,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2022,
@@ -161,7 +161,7 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Silver',
             },
-        ],
+        ], */
     },
     {
         id: 5,
@@ -173,7 +173,7 @@ module.exports = [
         rate: 5,
         price: 1899,
         prevPrice: 2000,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2020,
@@ -202,7 +202,7 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Space Gray',
             },
-        ],
+        ], */
     },
     {
         id: 6,
@@ -214,7 +214,7 @@ module.exports = [
         rate: 5,
         price: 1999,
         prevPrice: 2050,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2022,
@@ -243,7 +243,7 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Space Gray',
             },
-        ],
+        ], */
     },
     {
         id: 7,
@@ -255,7 +255,7 @@ module.exports = [
         rate: 5,
         price: 5499,
         prevPrice: 6000,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2021,
@@ -284,7 +284,7 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Silver',
             },
-        ],
+        ], */
     },
     {
         id: 8,
@@ -296,7 +296,7 @@ module.exports = [
         rate: 5,
         price: 5999,
         prevPrice: 6200,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2023,
@@ -325,7 +325,7 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Silver',
             },
-        ],
+        ], */
     },
     {
         id: 9,
@@ -337,7 +337,7 @@ module.exports = [
         rate: 5,
         price: 1599,
         prevPrice: 1700,
-        kharacteristics: [
+        /* kharacteristics: [
             {
                 key: 'Год выпуска',
                 value: 2022,
@@ -366,6 +366,6 @@ module.exports = [
                 key: 'Цвет корпуса',
                 value: 'Starlight',
             },
-        ],
+        ], */
     },
 ]
