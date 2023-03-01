@@ -1,7 +1,7 @@
 module.exports = [
     {
         id: 1,
-        title: 'Iphone 14 Pro Max 1TB Deep Purple 2022',
+        title: 'Iphone 14 Pro Max 1TB Purple 2022',
         src: 'https://lh3.googleusercontent.com/coJ2Dpy9qKKBhzrIL1KK1ateEHRgaylbKtOMcvD1BqAXn12SyKgpeGucV2VtI_CpI2vW0iaZDjXosgi2cADJcwUQ7fRHi4A4xg3Vx7pcrOg0iLMQwov2pKil2PzYg3BkFWUQiz1UhjbNxPkO7XjiaMHzHVd3TAQg2ih5XYo21Hh3_Ly26dihcnfRU8XhzA74GJR-i7j3C-N11Fi23mioTSNacXQbZ_usrCjAbgKAxNibSwe-SvKTPLD-PZj9N0ruXItLyVQysZLDdHf9ZQcYSM4c7qcANyaTMlGZV_9XLSxi0ycjkwuKMmX-vFEw0ULbR0AXxQZRJEdjmX8epOlccW1ObGH3CMSCrd5J9b96gfGuCXMjQYaWE8Ry9cWO_cl8sb4tW_L9JEffbaALzPs1bhrH5g2G7P_Mly3uHrmTxWrF70WgHnIU9jihT_J8ov9pRgnVuFkfq8qL0wlqq5UcqG8E7KvP-8tbW0HVnpSiwPwSkgM18IU8YrFF0f9BzbWnBQApBtHMiIGqWDeh0z6QpudQr2afZxSVTKUxq7-kmfiv6C9mEB7A6v9MLHcr0gzwwIWFng9KJH4lGJZRHtghXhMPKeZ2-iLxVSMNINZz562gLz4KpTGymORoePTO0X2SSjvzzgwOfmJlFTW3B7T3QPUsFlFbptXDvZ4rfDP9lL8L-h7kLI8xBJGw5YWQnNEzFozFpLA7-8-dsIg3OXXCu-tBumceG7X3CH5LKJ_mEXDDUKbZu-yaag4YWApW6aD-8TUC6mFxK3O1WExSgn5-wTLYm9tmIchlLohMTmksa4Q7MGkZa2WP1SNpktxaF1iROeCrWjBujnhB1XxqCnVnRClupuZ8-84n1VZXoLp7Gu1EdNqj8P8DWm2YtMJLZaeb4yjwMfyqvXs0jWEqilwQryvXAXRN2E5OnmZoxUHOU-yOQuvO=w481-h600-no?authuser=0',
         isNovelty: true,
         isDiscount: true,
@@ -11,7 +11,7 @@ module.exports = [
     },
     {
         id: 2,
-        title: 'Iphone 14 Pro 1TB Space Black 2022',
+        title: 'Iphone 14 Pro 1TB Black 2022',
         src: 'https://lh3.googleusercontent.com/JWQCs1Enl62ATs7_VbXKq86MXObvuQjVf9oOP_9sgeEa84vKv3IRB0CsxAuPxU9h9cXdOYbl5l6KLXfvta_BwzC_Cg21PyxUvg1aaa_FxATVla4NCXVBqWz6ZS3Q3mhXXX6XeOZqc7kT94o8mHSR69YISDq_xLFEYvP7knjYMC9_-5-0BNq_8DFAk7SusXDhbl8lcttwZcNvrW05qyyXs_CBp1fHcjAOJU-y0BtB3eE0fFi-yUnycswJlUz4SlKdkLeBnBeBNA8P83zUKRexEWj8dh-3rQJh2budbe8I0fIbYLeWIjlYCu6y3bo0OHnZ4q1ofwzfzZs4WWtGquu_Mote8jd3wEPMrQp3EH0J6vDdjgWgfTtmPrncdwy1He9HdowbqDxaZfJfg7B75Lr-aNc1lCp7pzUC9FDPB4VaD5OCRT6-M81QMjCVhAvdIIM8oFgQf38A1nSgq8YGh_kfSrXZ4knOgkO03Pbv9o96h2SmYYm4wK3Z90gkfQH7VmE486iTtPDFX9HRfSsi_-pNahKV9WEWCBwV4SLFf5iPKmNJSsSbzlOgnwBl7KQkyyoMQqyz64nLZKs1xe4IMBhQB9U-7YJCZI7UYO7bbh_v31nBJFpDYgp3_OcPxXrR6mgruKoZRzGpFGb0xvBnk1c36W-1fPTQppNojSHhdNj25O9Z8nFYR5lIu73Ir920hAEv2Xeln-GKCfYnKiQE2_WzOb3VEqPR_UHShFuZkGkUizwjiq6MaC57bS9jCVaVL5Vnrx25gTBBTiWAgEqhe19bHY8o1QAlObTP62rf_ioUg7u8AJt-rBa-4mbdfQ7aDL2hENzOM9jdafvZdS2POmcipW_H1ThGsvQPNVcF5xT8gK7nnaFiN9c5TEtGPIf69qCyZW_wsY5CgOMi6AdgpG95P-0zhQt3R1-Nwx2sPUsuMXMF0e-S=w488-h600-no?authuser=0',
         isNovelty: true,
         isDiscount: true,
@@ -52,7 +52,7 @@ module.exports = [
     },
     {
         id: 6,
-        title: 'Iphone 13 Pro 128GB Sierra Blue 2021',
+        title: 'Iphone 13 Pro 128GB Blue 2021',
         src: 'https://lh3.googleusercontent.com/zPLIVyrN-eS3OQdkH1F3kIG7UAJnC4q1c6GAhT5XqORe2cMzbkCyX480qio2rESVPmgEMjPcxKs8E4VwdjgCa_it2vvxdN2FaQFz-PRqIwcULGtkzGdl_30EcKT9ijvUGN2D-OuTjP4vWE2Aoq3E0FhAC3VStO-1CpIAs3s4fbmrmFhIO6wbId02tuR9PYgBgE5MO0DGLOnQl2Be-F5UZWhFbqS7hqKHfD5qF6JnMlzlOXOogUhv63mQlBnEO0yVBlcFPDvwq-rrmZByFey5knB0Ab-5A4GPI-MXM_UjTRZkPsItL1MEWyCBtqhrjucSoBZD8K_rYTFAWo5tfcvRcwOtkqVnoV15LV0t_VQ3adapYLNaetUb3k7MLdT8EF992AJcFjlPaBS8boUKe0v-pAak3IxqEgzL0k_8iAde8gq15lmlS7pWEuSdWY_ATlVZuxVMCDdU-9c8TptvbIZDKPRSDG1P1MJ016pyZaGFiAvGhcQzv7OCev_HwZsZVYfPJhQBYj18EKQROXCN0sRIZr1Nv2F_dxEt8e_cTo6ioWax3J-4es5TgkWd73vzOrbKq7k08vmo9HWxoH1Yd9T0auHxBSotP9c49DdLt1Mg45gcIzFurdSUwUFrLoQwX9c2ZQTuAP3iodtTHOTl3AaXOKvhpf_mAt2hxe26FJk4zCbUDhASJEBM-oIGY_tKuQ6Vn66N5Wr2Kaatwk4wksTEUodDrjAnVtXrvH6DRkfWBfqkcQGuFiujnBY6fQ-d1DBfgcXT-b-kn7icF5xTvetSe8Vn7sZDQyCOd-7Iey9yAhE3pc-fvxL5BdW-6d_onGYqUa1BVdgaqXdLTsDgQTmlOy7nse8wNFLmGKJWayuFCEFMqMdPRWLVYm9ljuegZ7qsWDQy9HYfuIgt-k3cRKTHeaivwTso0KqgO_7sqkAu98s2C3Dw=w469-h600-no?authuser=0',
         isNovelty: true,
         isDiscount: true,
