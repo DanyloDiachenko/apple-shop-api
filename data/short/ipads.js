@@ -1,0 +1,43 @@
+module.exports = [
+    {
+        id: 1,
+        title: 'iPad Pro 12.9" M2 256GB Space Gray 2022',
+        src: 'https://lh3.googleusercontent.com/1F5sBiK9tQG5hNsWRjzjzFOihfV-_a1maZ4D4BttN4BuKx36sRgJN3bDP3ChTykWugW9boWbMABiAThsM-WPz7psdXFnqimznaDVzSD_4vhEuVwgLP13WQOQBEL-kPqVAPag96vSvVKi8rPWAgEv7bba7DcMj8jHg5BsjqHKdWIRYgLrzHU1J_jxPhO_Ypjhm0VZTscA8SU0tl19eYdqnmsiHSjID7XwxW5ZytRKN1v_N4XH5d23qEI5UgouEV0-l3uDJHOaY5JqZ0o0eADYGzhNtzdzEk8At2s5N3fBO-WDzlTzr3FfBwNrPQEwJk8Xd9kXnL-FnKqpiknQSLq-dEGpCAD_ll8IppscDf2y8qlEED_EBCEuRVLNJfQffsCltDKa2q1OnyVQWzFUA-OcjwaFiUy5SXnHlTmqg7qxb4brgsRLfyvYcff8sO03ga46PwLOY6I32jFrsQ4711IKgGUFny5URYvBHBMkeUAbQiHctHQxuGD9G2o-zueuNyOQVABa4ae6028DN3GPTsFaZi6yijX2o-VQDevzn7OwGrcHs4m9Bp6lqDVBrD9u2aC6LgEqR74QzmTPj_uhK5yxakeLvd-HvgbIC4jEf_7kgyb2tKGHtkgBvwCHIrCClMzu5DqvH0HR-O7zSZ7hEoE2iSD91w_y1AzO_gwes4E7arGAhFXykHgMiz5Ho3vjf2foRppr1aoNAMcNzSVnJNweOrowp3khsP8zhro599A7qTOrnG4BrB0mn-2DPIoa4fY576oumWk8jTV_OAOdp1xay4xWHyFkQxUWswyVw8XHmEjHhR0Pgsg1tabkMjvUA9kRCbSCmbpUfb-QTQsWWWLPOCCkBuw_G44kLGma5203LK_6x6KSV4HCu7Q-EUja4NBTHJarNNTg2hMPyY4CLlI6yK_0P5uVgkW7GLVCecsYq94E=w548-h600-no?authuser=0',
+        isNovelty: true,
+        isDiscount: true,
+        rate: 5,
+        price: 3249,
+        prevPrice: 3300,
+    },
+    {
+        id: 2,
+        title: 'iPad Air 10.9" M1 256GB Blue 2022',
+        src: 'https://lh3.googleusercontent.com/_9lUJZ_0fqkRAzFWtMnAlyMQ9NHNMVL8wR2AKYxVn1o1VrGURb-d_JkuzCuv9VEr7hGxggk2M8K0Cdfbw3SYxjQuUWdizBsGEkNO3De1rdgaPJ6krbbwkPIql61pUQneVimk__Kc_KxN5ztZWL5IbkHubM4a7Asxq-wl5WralU-q9gYWQ5-fHVuz1AA_WDFeI-dzzJ5I7exNaDim6ZGzUY6c55zYE4-gYrixwkCd2sZmxjFAFSmihi4lb1xlny0htzjuOW4Z1bV23bDEC-ewEYgxdqG-xF4L5ALd42WeJ1e5ggtdrszByQPaObZ_T11zlSd5CrzsNsuos63ksY7ggAtntsSuuGO3Nz-eO-oAQtsg72AqNBA8KljsUdsWj38m7I3-pzZ0wjIF86Fs0uyZd-HvtXDwVJvBhHKW3uPwzKxtSFjOUhFy3fyC8I8f3yBNY52WpWFcFlWWCBiyQbJjYlzUsxbOXGIRQe4HIBAAnU_i1Q3EPyr4w3o-FeKrYpDw-MUcVlIfjnO5j2GmIf-swCF-oUMQ_rpAlrF2-MFLcdMOJlROhgutERqHSKGeLKLeTwn_FPeW_AcXGskk73l8B4MzB0ESBZQzczR2X-k4_tCnf_bpOEm1CjbgKXbbC5iUt9fKyYRupHTODQJLu28I_84fLY9I9UB_6pI9NC7d9h6BzCLRlxZLSWvAeowq8ZiTzx_B-VGmyP6XrINThY9eaNWX0qdnO7PSmym9bG2haxU-D_Igx5IOnakMsNCgl6EB9dmGgw49wsJDhJjbqacF-4F-NAG0sLmnUJ0xZwb4bCRF7rPJAkhDt--Ae9uC-cvAKF93ypsuwGUcq4k5uFjK6MEt3b6ezfCMGEaEMFznjllGEczxdYs6CWRES9MvwE5ye7E2BP4Zi61VrjMCRv9qoa_2hkmnTd_j38Ldc4uFs9KO=w529-h600-no?authuser=0',
+        isNovelty: true,
+        isDiscount: true,
+        rate: 5,
+        price: 1249,
+        prevPrice: 1300,
+    },
+    {
+        id: 3,
+        title: 'iPad 10.9" 256GB Blue 2022',
+        src: 'https://lh3.googleusercontent.com/8dlhfH2bAaAziCwJ7w3p8-be3CvzlrCjWIthotijzXjAt-bBkEe41cdmlgFxh4GnKvRcGVRr-kYxvmG3outM9M5tC7XXXM_352fNyQbcv3f8QRiRlvpdAZeOHuG-5oHfqhUdlgVWl7yfanVGU-fjhFDc0Sqal37KJnFTt_DH38oo0kW2PkGNJyGY0YgrdYpU7iAaJqUi2Qj9JD70PX0GW4-hCedqlYrPGyG3lZOk9Vo5f4mwnAjRF0vgrS3SKIRCoDe6VyrtWwvHDo9u4pHi_4xzYkBmX1TJuBrFZRUi95I_s_2M_D5EmaKMaJnxrPkXU8g--C6ktyWMyKSzEG9trjkeEgpNbTssdUSHwdaNVQzGZq9xNdNasSWzrYf49jYzjn9-VAGzlKE4sYawHb1DKKbVjX8n74jNlMQQ-Gu82z3LDU3QEGzave7tvgOU1hOGAaWwhtZxeQCQ7Mcl9WtiqfUfb2W_LUHHJPKiwb-GLEuXNB6u_3jQ9KTAybqRlMlVrs5d0XtLd-rs9JRywQK9Yd1VSRQIZRw04sVlvscr993TRtkZ-pFFbV9YwwFmRb1gcxlISArUJ8xSEZxSYk9j4Z6IUm2sBy97OB7_lab0CeROYuEUSanmgR-W8vHwyP3NRDd-K_X_9I8J23ZBaBodu5ZtpirRhS2gDW84NVlIZTmAU7OxbYby9WpJAxGOOgAwjxlr5dtyCX-NvD4vYtUe2boRUhi1TVGm97Z_AlQ8QO182ZENXbXwLsJ4HI4BApiET3ftrjBoGDeuJoqfAQ3rLjG8N5tGG4jLgcTncVA_yCK-yRXqc0X_5COF2HdLPz1egZRhLUpT15a1AB21_oDUIJ7gR46-sP5oM2ZyQR1UKMNAavqSnbPfo9zMB1aoJEsuCBsP2VyzZsOwTH5c-ttNqnvu4CZH7TiC-pRZoBHkLTLm=w528-h600-no?authuser=0',
+        isNovelty: true,
+        isDiscount: true,
+        rate: 5,
+        price: 999,
+        prevPrice: 1150,
+    },
+
+    {
+        id: 4,
+        title: 'iPad Pro 12.9 M1 512GB Space Gray 2021',
+        src: 'https://lh3.googleusercontent.com/M8-dmdWti4l1WbYF7YElx2oYbwExNyTuhcvH2XkEuRD4pTKADflzDO6Q9f74XcZC7DSysHBlXEp2kW3GlukDSwbwUZrOLqrrLgHtMJ7FkH9eaLnALJnaWpaNB8hnc_IHMDHx75Sei2pEs_19bl43WTzvpVcxDgc7gHratA1gGIXBCtyrm2TMENomDaldlJEyYo0u8OUhSRwIXHjYN4_8B2VCokSKUmnlFNkIgI7iLLiuXW5d7CdlvA5UwRN8WyDqRvILdRvjRdt68pHSjUU__gi8S2I1BBjwKgtsZMuCNmQ306j5meNn2rIX3QzDI54Bqk38vc7kelPoQKB_Ofs6XnsRdylu9Ti5OyrXQR4ZaO13spLtseMvlxdHWTQQ2Ps0Sk6KazlRoMBBfMq5DGobVWqTi0eO-vwHWhEfP9AawTmW4z8ExrwNny05PZtkOnDa69q7XgeNMTftT7CPQGFhOeS923Rrd8ZNk14HHC2rMfMsL8BxGK3WVM-dH1-ySaRfpujSYVdj8ETn6jieoAgZtdQBwB73t1e2nkGbiwxsD8GOtRWt0juB2cV6clE5KyIsLa07Kgkm1fjl6BTVdCYZoaems--uaQOEzQROaivPWiIyzZItSXm7vaCk8OUt_zfIKXi5wr82Bn_ybeSCu6_i1mbAQVWaBB80CLlT50sW3h5OxWZLolxnEyNPh0o3x_0Ht330sWZObsV_ee9Jb_RMh0kHOaRq1qPCcY5KxewLgKFoS-cPEbnFc3l_f4gHr3FuOiu7mMHv1q9J1SWYoJqKIBzQOnGOwmq80FqQVc1pXXjabfYhxe4g0T5rmG_pxeKKzuzuHulytGTtCLhZUIU4z_TdEeIow0G8WeVsaazvcdYrRYpquGlHrAH7vBeDpVAd0X6lj40VxOdjH5v66OE9-kkXqb45wvCylB2zq1iEAjM4=w164-h178-no?authuser=0',
+        isNovelty: true,
+        isDiscount: true,
+        rate: 5,
+        price: 1249,
+        prevPrice: 1300,
+    },
+];
