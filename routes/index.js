@@ -1,8 +1,8 @@
 const express = require('express');
 const router = express.Router();
-const macbooks = require('../data/short/macbooks');
-const iphones = require('../data/short/iphones');
-const ipads = require('../data/short/ipads');
+const macbooks = require('../data/macbooks');
+const iphones = require('../data/iphones');
+const ipads = require('../data/ipads');
 
 router.get('/short-macbooks', (req, res) => {
     res.json(macbooks);
