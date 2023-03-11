@@ -1,7 +1,7 @@
 module.exports = [
     {
         id: 1,
-        title: 'iPad Pro 12.9" M2 2Tb Space Gray 2022',
+        title: 'iPad Pro 12.9" M2 2TB Space Gray 2022',
         src: 'https://lh3.googleusercontent.com/1F5sBiK9tQG5hNsWRjzjzFOihfV-_a1maZ4D4BttN4BuKx36sRgJN3bDP3ChTykWugW9boWbMABiAThsM-WPz7psdXFnqimznaDVzSD_4vhEuVwgLP13WQOQBEL-kPqVAPag96vSvVKi8rPWAgEv7bba7DcMj8jHg5BsjqHKdWIRYgLrzHU1J_jxPhO_Ypjhm0VZTscA8SU0tl19eYdqnmsiHSjID7XwxW5ZytRKN1v_N4XH5d23qEI5UgouEV0-l3uDJHOaY5JqZ0o0eADYGzhNtzdzEk8At2s5N3fBO-WDzlTzr3FfBwNrPQEwJk8Xd9kXnL-FnKqpiknQSLq-dEGpCAD_ll8IppscDf2y8qlEED_EBCEuRVLNJfQffsCltDKa2q1OnyVQWzFUA-OcjwaFiUy5SXnHlTmqg7qxb4brgsRLfyvYcff8sO03ga46PwLOY6I32jFrsQ4711IKgGUFny5URYvBHBMkeUAbQiHctHQxuGD9G2o-zueuNyOQVABa4ae6028DN3GPTsFaZi6yijX2o-VQDevzn7OwGrcHs4m9Bp6lqDVBrD9u2aC6LgEqR74QzmTPj_uhK5yxakeLvd-HvgbIC4jEf_7kgyb2tKGHtkgBvwCHIrCClMzu5DqvH0HR-O7zSZ7hEoE2iSD91w_y1AzO_gwes4E7arGAhFXykHgMiz5Ho3vjf2foRppr1aoNAMcNzSVnJNweOrowp3khsP8zhro599A7qTOrnG4BrB0mn-2DPIoa4fY576oumWk8jTV_OAOdp1xay4xWHyFkQxUWswyVw8XHmEjHhR0Pgsg1tabkMjvUA9kRCbSCmbpUfb-QTQsWWWLPOCCkBuw_G44kLGma5203LK_6x6KSV4HCu7Q-EUja4NBTHJarNNTg2hMPyY4CLlI6yK_0P5uVgkW7GLVCecsYq94E=w548-h600-no?authuser=0',
         isNovelty: true,
         isDiscount: true,
@@ -11,7 +11,7 @@ module.exports = [
     },
     {
         id: 2,
-        title: 'iPad Pro 11" M2 2Tb Silver 2022',
+        title: 'iPad Pro 11" M2 2TB Silver 2022',
         src: 'https://lh3.googleusercontent.com/ltJJUWwZb2ZmTjl4IjZ9EpQhBAUrWPhiFIZMwSUX6MGE9X50RVFDsK4XVZS0Mv5sywttXhUW73VsO3E5gOCGZI9AwFx_8v8mt1uP6uniDRE2pGe0ncXl70cKunFgrn4rsSwv1FpxLtX5BHzkbv4blZjy1n10avxMq6IlPjkzN8qyFOnlF0dV2Vyse7Tgaxrrcn83UAJ32IGp2nX_V78ivcDvJg9vZCdOEuNdH_X08KWcpxQZjifNu0fWmL9pTT94gEf4RwWYq0kTTgwVQv3U20rG7OjN2ZD5WolWEuHJ8oNAKdhlAPr8-HKFiMdgLBHD0aDD79iEWpX3nZ4fU3Qo2jBj-EFs9iuKMZH0kMhJFlRI5mlxMaFKgubpxXiq9WT6u6ZzFRN9CdTKlLjGDUN83_QgoEfldc6_V2snHbhuUzrotzVTRwBVDunICDkgWucgISmjGiEbk_KbX59jLf34pztDDAKrrFb0YGuh0yLX5ovE_GNYrsXi3-iyJ5MJ-SuoETY7ZjbzywfUHPHfCsPS7Oa_HzbixvbxJb0r3SocY7atiJpxWMqtHcwekQj8CBmuXS9TdwX8WWrQfnNp1VAbVi2RWm6bFTLhncoiZM-D1DMKOeFqqLYyc-vqcx1zMJMDcGwbj_kD3bIomMWy8jHYQcFPC52s9B5XV-VA0YrqMZ6H-Q7yNDPIlNeJ84M4lqv8MoPVrt6EQYKiw-TzWbQAvIeRUB4SWD-FA1xZYF1SjL0-Rj7af4OfY-9OpzmXLylAcGKdl0kD1jeD5jKMT3RNAzVMLvl-KE-Wk6LoGw7IFaxCYYJae1kuoyQanXmjYcxugIjKYPjvkUap6NC9iMV-qX44Ny28PYX5zl6eQIQVhTVJJggswy09GmoQAV9-ygPhS959IaueuKVvhNJkDVZH-qvPHTXmP3Ll8iqfiMeex-N6=w196-h220-no?authuser=0',
         isNovelty: true,
         isDiscount: true,
